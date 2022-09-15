@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Gourab Chakraborty
-- 👀 I’m interested in Optics, Accoustics, AI , Machine Learning, Micro-robotics,
+- 👀 I’m interested in Material Science,Manufacturing Technology, AI , Machine Learning, Optics, Acoustics, Micro-robotics,
 - 🌱 I’m currently learning Msc Mechanical Engineering 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
